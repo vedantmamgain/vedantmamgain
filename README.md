@@ -25,7 +25,7 @@ Hi, I'm Vedant Mamgain , a Full Stack & Android Developer 🚀 from India, curre
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on building [Layers](https://github.com/Layers-Inc);
+- 👨🏽‍💻 I’m currently building [Layers](https://github.com/Layers-Inc)
 - 🌱 I’m currently learning GraphQL,Jest,GSAP,Gridsome.
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I know nothing.
