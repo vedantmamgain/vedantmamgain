@@ -45,7 +45,7 @@ Hi, I'm Vedant Mamgain , a Full Stack & Android Developer 🚀 from India, curre
 
 ![Vedant's github stats](https://github-readme-stats.vercel.app/api?username=vedantmamgain&show_icons=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singla-shivam)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantmamgain)
 
 <p align="center"> 
   Visitor count<br>
