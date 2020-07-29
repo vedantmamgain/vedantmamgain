@@ -17,7 +17,7 @@
 
 <br />
 
-Hi, I'm Vedant Mamgain , a Full Stack & Android Developer 🚀 from India, currently Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Making sure we meet the deadlines 👨🏽‍💼[@INTWIFF](https://github.com/inwtwiff) and a Former Full Stack Intern [@HILLS2HOME](https://github.com/Hills2Home-Ashutosh). Beside's programming, I enjoy eating food,music and traveling.
+Hi, I'm Vedant Mamgain , a Full Stack & Android Developer 🚀 from India, currently Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Making sure we meet the deadlines 👨🏽‍💼[@INTWIFF](https://github.com/intwiff) and a Former Full Stack Intern [@HILLS2HOME](https://github.com/Hills2Home-Ashutosh). Beside's programming, I enjoy eating food,music and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/YnkMcHgNIMW4Yfmjxr/giphy.gif" />
   
