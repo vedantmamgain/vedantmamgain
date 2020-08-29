@@ -1,53 +1,34 @@
-### Hey 👋🏽, I'm [Vedant!](https://vedantmamgain.github.io)
+<h1 align="center">Hi 👋, I'm Vedant Mamgain</h1>
+<h3 align="center">A Full Stack & Android Developer 🚀 from India, currently Freelancer 👨🏽‍💻</h3>
 
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantmamgain" alt="vedantmamgain" /> </p>
 
-<a href="https://twitter.com/MamgainVedant">
-  <img align="left" alt="Vedant Mamgain | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/vedant-mamgain/">
-  <img align="left" alt="Vedant's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/vedantm.23/">
-  <img align="left" alt="Vedant's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://leetcode.com/vedutheboss/">
-  <img align="left" alt="Vedant's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
+- 🔭 I’m currently working on [Layers](https://github.com/Layers-Inc)
 
-<br />
+- 🌱 I’m currently learning **Golang,Rust,GSAP,Gridsome.**
 
-Hi, I'm Vedant Mamgain , a Full Stack & Android Developer 🚀 from India, currently Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Making sure we meet the deadlines 👨🏽‍💼[@INTWIFF](https://github.com/intwiff) and a Former Full Stack Intern [@HILLS2HOME](https://github.com/Hills2Home-Ashutosh). Beside's programming, I enjoy eating food,music and traveling.
+- 🤝 I’m looking for help with **Data Structures and Algorithms**
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/YnkMcHgNIMW4Yfmjxr/giphy.gif" />
-  
-**Talking about Personal Stuffs:**
+- 👨‍💻 All of my projects are available at [vedantmamgain.github.io](vedantmamgain.github.io)
 
-- 👨🏽‍💻 I’m currently building [Layers](https://github.com/Layers-Inc)
-- 🌱 I’m currently learning Rust,GraphQL,Jest,GSAP,Gridsome.
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭
-- 💬 Ask me about anything, I know nothing.
-- 📫 How to reach me: vedant.civbt18@nituk.ac.in
-- 📝[Resume](https://drive.google.com/file/d/1A6q9IahDN8o2JzoGgHj7Ae0Y1be-iNNy/view?usp=sharing)
+- 📝 I regulary write articles on [https://medium.com/@mamgainvedant](https://medium.com/@mamgainvedant)
 
-**Languages and Tools:**
+- 💬 Ask me about **Vue , Node.js , Kotlin**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+- 📫 How to reach me **vedant.civbt18@nituk.ac.in**
 
-![Vedant's github stats](https://github-readme-stats.vercel.app/api?username=vedantmamgain&show_icons=true&hide_border=true)
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantmamgain)
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg" alt="gridsome" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantmamgain&layout=compact&hide=html" alt="vedantmamgain" /></p>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-count.glitch.me/vedantmamgain/count" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantmamgain&show_icons=true" alt="vedantmamgain" /></p>
+
+<p align="center">
+<a href="https://twitter.com/mamgainvedant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mamgainvedant" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/vedant-mamgain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vedant-mamgain" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/5827297" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="5827297" height="30" width="30" /></a>
+<a href="https://instagram.com/vedantm.23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vedantm.23" height="30" width="30" /></a>
+<a href="https://medium.com/@mamgainvedant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mamgainvedant" height="30" width="30" /></a>
 </p>
