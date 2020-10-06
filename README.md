@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantmamgain" alt="vedantmamgain" /> </p>
 
-- 🔭 I’m currently working on [Layers](https://github.com/Layers-Inc)
-
-- 🌱 I’m currently learning **Golang,Rust,GSAP,Gridsome.**
+- 🌱 I’m currently learning **Golang,GSAP,Gridsome.**
 
 - 🤝 I’m looking for help with **Data Structures and Algorithms**
 
