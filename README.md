@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 I rant at [vedantmamgain.github.io](vedantmamgain.github.io)
+- 👨‍💻 I rant at [vedantmamgain.github.io](https://vedantmamgain.github.io/)
 
 - 📝 I write articles on [https://medium.com/@mamgainvedant](https://medium.com/@mamgainvedant)
 
