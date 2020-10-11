@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantmamgain" alt="vedantmamgain" /> </p>
 
-- 🌱 I’m currently learning **Golang,GSAP,Gridsome.**
+- 🌱 I’m currently learning **Go**
 
-- 🤝 I’m looking for help with **Data Structures and Algorithms**
+- 👨‍💻 I rant at [vedantmamgain.github.io](vedantmamgain.github.io)
 
-- 👨‍💻 All of my projects are available at [vedantmamgain.github.io](vedantmamgain.github.io)
+- 📝 I write articles on [https://medium.com/@mamgainvedant](https://medium.com/@mamgainvedant)
 
-- 📝 I regulary write articles on [https://medium.com/@mamgainvedant](https://medium.com/@mamgainvedant)
-
-- 💬 Ask me about **Vue , Node.js , Kotlin**
+- 💬 Ask me about **Vue , Node.js , Kotlin, Go**
 
 - 📫 How to reach me **vedant.civbt18@nituk.ac.in**
 
