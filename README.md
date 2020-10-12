@@ -16,7 +16,6 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [What I learned after writing 7,000 Lines of Full Stack Code](https://medium.com/@mamgainvedant/what-i-learned-after-writing-7-000-lines-of-full-stack-code-7f69cc0b1ea?source=rss-e9acd2ca6911------2)
 <!-- BLOG-POST-LIST:END -->
 
