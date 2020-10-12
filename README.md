@@ -37,4 +37,4 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://https://novatorem-nine-tau.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/s4c42w22yq0zx3034etx8bkiw)
+[<img src="https://novatorem-nine-tau.vercel.app/api/spotify-playing" alt="Vedant Spotify Playing" width="350" />](https://open.spotify.com/user/s4c42w22yq0zx3034etx8bkiw)
