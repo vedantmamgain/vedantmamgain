@@ -34,3 +34,7 @@
 4. 🗣 Commented on [#205](https://github.com/TheAlgorithms/Go/issues/205) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
 5. ❌ Closed PR [#206](https://github.com/TheAlgorithms/Go/pull/206) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
 <!--END_SECTION:activity-->
+
+### Spotify Playing 🎧
+
+[<img src="https://https://novatorem-nine-tau.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/s4c42w22yq0zx3034etx8bkiw)
