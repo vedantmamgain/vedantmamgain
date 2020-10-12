@@ -14,7 +14,9 @@
 - 📫 How to reach me **vedant.civbt18@nituk.ac.in**
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [What I learned after writing 7,000 Lines of Full Stack Code](https://medium.com/@mamgainvedant/what-i-learned-after-writing-7-000-lines-of-full-stack-code-7f69cc0b1ea?source=rss-e9acd2ca6911------2)
 <!-- BLOG-POST-LIST:END -->
 
@@ -29,3 +31,5 @@
 <a href="https://instagram.com/vedantm.23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vedantm.23" height="30" width="30" /></a>
 <a href="https://medium.com/@mamgainvedant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mamgainvedant" height="30" width="30" /></a>
 </p>
+
+<!--START_SECTION:activity-->
