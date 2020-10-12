@@ -24,12 +24,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantmamgain&show_icons=true" alt="vedantmamgain" /></p>
 
+📫 How to reach me:
+
 <p align="center">
-<a href="https://twitter.com/mamgainvedant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mamgainvedant" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/vedant-mamgain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vedant-mamgain" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/5827297" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="5827297" height="30" width="30" /></a>
-<a href="https://instagram.com/vedantm.23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vedantm.23" height="30" width="30" /></a>
-<a href="https://medium.com/@mamgainvedant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mamgainvedant" height="30" width="30" /></a>
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/mamgainvedant) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://linkedin.com/in/vedant-mamgain)
 </p>
+
+### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
