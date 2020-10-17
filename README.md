@@ -27,11 +27,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#230](https://github.com/TheAlgorithms/Go/pull/230) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-2. 🗣 Commented on [#227](https://github.com/TheAlgorithms/Go/issues/227) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-3. 🗣 Commented on [#229](https://github.com/TheAlgorithms/Go/issues/229) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-4. 💪 Opened PR [#223](https://github.com/TheAlgorithms/Go/pull/223) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-5. 🗣 Commented on [#181](https://github.com/TheAlgorithms/Go/issues/181) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+1. 🎉 Merged PR [#229](https://github.com/TheAlgorithms/Go/pull/229) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+2. 🎉 Merged PR [#227](https://github.com/TheAlgorithms/Go/pull/227) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+3. 🗣 Commented on [#227](https://github.com/TheAlgorithms/Go/issues/227) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+4. 💪 Opened PR [#230](https://github.com/TheAlgorithms/Go/pull/230) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+5. 🗣 Commented on [#227](https://github.com/TheAlgorithms/Go/issues/227) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
