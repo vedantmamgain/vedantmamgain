@@ -27,11 +27,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4771](https://github.com/signalapp/Signal-Desktop/issues/4771) in [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
-2. 🎉 Merged PR [#18](https://github.com/vedantmamgain/Google-Docs-Clone/pull/18) in [vedantmamgain/Google-Docs-Clone](https://github.com/vedantmamgain/Google-Docs-Clone)
-3. 🎉 Merged PR [#20](https://github.com/vedantmamgain/Google-Docs-Clone/pull/20) in [vedantmamgain/Google-Docs-Clone](https://github.com/vedantmamgain/Google-Docs-Clone)
-4. 🗣 Commented on [#257](https://github.com/TheAlgorithms/Go/issues/257) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-5. ❗️ Closed issue [#130](https://github.com/TheAlgorithms/Go/issues/130) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+1. 🗣 Commented on [#36](https://github.com/TheAlgorithms/Go/issues/36) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+2. 🗣 Commented on [#4771](https://github.com/signalapp/Signal-Desktop/issues/4771) in [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop)
+3. 🎉 Merged PR [#18](https://github.com/vedantmamgain/Google-Docs-Clone/pull/18) in [vedantmamgain/Google-Docs-Clone](https://github.com/vedantmamgain/Google-Docs-Clone)
+4. 🎉 Merged PR [#20](https://github.com/vedantmamgain/Google-Docs-Clone/pull/20) in [vedantmamgain/Google-Docs-Clone](https://github.com/vedantmamgain/Google-Docs-Clone)
+5. 🗣 Commented on [#257](https://github.com/TheAlgorithms/Go/issues/257) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
