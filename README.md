@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 I rant at [vedantmamgain.github.io](https://vedantmamgain.github.io/)
-
-- 📝 I write articles on [https://medium.com/@mamgainvedant](https://medium.com/@mamgainvedant)
-
 - 💬 Ask me about **Vue , Node.js , Kotlin, Go**
 
 - 📫 How to reach me **vedant.civbt18@nituk.ac.in**
