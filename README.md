@@ -23,11 +23,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#21](https://github.com/vedantmamgain/Google-Docs-Clone/pull/21) in [vedantmamgain/Google-Docs-Clone](https://github.com/vedantmamgain/Google-Docs-Clone)
-2. 🎉 Merged PR [#263](https://github.com/TheAlgorithms/Go/pull/263) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-3. 🎉 Merged PR [#264](https://github.com/TheAlgorithms/Go/pull/264) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-4. 🎉 Merged PR [#262](https://github.com/TheAlgorithms/Go/pull/262) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-5. 🎉 Merged PR [#261](https://github.com/TheAlgorithms/Go/pull/261) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+1. 🗣 Commented on [#392](https://github.com/notion-enhancer/notion-enhancer/issues/392) in [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer)
+2. 🎉 Merged PR [#21](https://github.com/vedantmamgain/Google-Docs-Clone/pull/21) in [vedantmamgain/Google-Docs-Clone](https://github.com/vedantmamgain/Google-Docs-Clone)
+3. 🎉 Merged PR [#263](https://github.com/TheAlgorithms/Go/pull/263) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+4. 🎉 Merged PR [#264](https://github.com/TheAlgorithms/Go/pull/264) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+5. 🎉 Merged PR [#262](https://github.com/TheAlgorithms/Go/pull/262) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
