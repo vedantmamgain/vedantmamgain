@@ -23,11 +23,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#7](https://github.com/sahilsk11/resume-scanner/issues/7) in [sahilsk11/resume-scanner](https://github.com/sahilsk11/resume-scanner)
-2. 🗣 Commented on [#392](https://github.com/notion-enhancer/notion-enhancer/issues/392) in [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer)
-3. 🎉 Merged PR [#21](https://github.com/vedantmamgain/Google-Docs-Clone/pull/21) in [vedantmamgain/Google-Docs-Clone](https://github.com/vedantmamgain/Google-Docs-Clone)
-4. 🎉 Merged PR [#263](https://github.com/TheAlgorithms/Go/pull/263) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-5. 🎉 Merged PR [#264](https://github.com/TheAlgorithms/Go/pull/264) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+1. 🗣 Commented on [#7](https://github.com/sahilsk11/glide/issues/7) in [sahilsk11/glide](https://github.com/sahilsk11/glide)
+2. ❗️ Opened issue [#7](https://github.com/sahilsk11/resume-scanner/issues/7) in [sahilsk11/resume-scanner](https://github.com/sahilsk11/resume-scanner)
+3. 🗣 Commented on [#392](https://github.com/notion-enhancer/notion-enhancer/issues/392) in [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer)
+4. 🎉 Merged PR [#21](https://github.com/vedantmamgain/Google-Docs-Clone/pull/21) in [vedantmamgain/Google-Docs-Clone](https://github.com/vedantmamgain/Google-Docs-Clone)
+5. 🎉 Merged PR [#263](https://github.com/TheAlgorithms/Go/pull/263) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
