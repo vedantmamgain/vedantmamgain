@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Go**
 
+- 💻 My [Resume](https://drive.google.com/file/d/1A6q9IahDN8o2JzoGgHj7Ae0Y1be-iNNy/view?usp=sharing)
+
 - 💬 Ask me about **Vue , Node.js , Kotlin, Go**
 
 - 📫 How to reach me **vedant.civbt18@nituk.ac.in**
