@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantmamgain" alt="vedantmamgain" /> </p>
 
-- 🌱 I’m currently learning **Go**
-
 - 💻 My [Resume](https://drive.google.com/file/d/1A6q9IahDN8o2JzoGgHj7Ae0Y1be-iNNy/view?usp=sharing)
 
 - 💬 Ask me about **Vue , Node.js , Kotlin, Go**
