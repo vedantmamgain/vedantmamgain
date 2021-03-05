@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Mamgain</h1>
 <h3 align="center">A Full Stack & Android Developer 🚀 from India 👨🏽‍💻</h3>
-<p align="left">https://run.kaist.ac.kr/badges/codeforces/senapati23.svg</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantmamgain" alt="vedantmamgain" /> </p>
 
 - 💻 My [Resume](https://drive.google.com/file/d/1A6q9IahDN8o2JzoGgHj7Ae0Y1be-iNNy/view?usp=sharing)
