@@ -22,11 +22,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#22](https://github.com/vedantmamgain/Google-Docs-Clone-Client/pull/22) in [vedantmamgain/Google-Docs-Clone-Client](https://github.com/vedantmamgain/Google-Docs-Clone-Client)
-2. 🎉 Merged PR [#266](https://github.com/TheAlgorithms/Go/pull/266) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-3. 🗣 Commented on [#266](https://github.com/TheAlgorithms/Go/issues/266) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
-4. 🗣 Commented on [#15](https://github.com/nileshsah/harwest-tool/issues/15) in [nileshsah/harwest-tool](https://github.com/nileshsah/harwest-tool)
-5. 🗣 Commented on [#7](https://github.com/sahilsk11/glide/issues/7) in [sahilsk11/glide](https://github.com/sahilsk11/glide)
+1. 🎉 Merged PR [#23](https://github.com/vedantmamgain/Google-Docs-Clone-Client/pull/23) in [vedantmamgain/Google-Docs-Clone-Client](https://github.com/vedantmamgain/Google-Docs-Clone-Client)
+2. 🎉 Merged PR [#22](https://github.com/vedantmamgain/Google-Docs-Clone-Client/pull/22) in [vedantmamgain/Google-Docs-Clone-Client](https://github.com/vedantmamgain/Google-Docs-Clone-Client)
+3. 🎉 Merged PR [#266](https://github.com/TheAlgorithms/Go/pull/266) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+4. 🗣 Commented on [#266](https://github.com/TheAlgorithms/Go/issues/266) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
+5. 🗣 Commented on [#15](https://github.com/nileshsah/harwest-tool/issues/15) in [nileshsah/harwest-tool](https://github.com/nileshsah/harwest-tool)
 <!--END_SECTION:activity-->
 
 ### Spotify Playing 🎧
