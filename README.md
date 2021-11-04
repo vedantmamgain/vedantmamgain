@@ -4,7 +4,7 @@
 
 - 💻 My [Resume](https://drive.google.com/file/d/1A6q9IahDN8o2JzoGgHj7Ae0Y1be-iNNy/view?usp=sharing)
 
-- 💬 Top Rated Freelancer @Upwork
+- 💬 Top Rated Plus Freelancer@Upwork
 
 - 📫 How to reach me **mamgainvedant@gmail.com**
 
