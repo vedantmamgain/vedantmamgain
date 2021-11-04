@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vedant Mamgain</h1>
-<h3 align="center">Software Developer/Problem Solver💻</h3>
+<h3 align="center">Software Developer/Problem Solver</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantmamgain" alt="vedantmamgain" /> </p>
 
-- 💻 My [Resume](https://drive.google.com/file/d/1A6q9IahDN8o2JzoGgHj7Ae0Y1be-iNNy/view?usp=sharing)
+💻 My [Resume](https://drive.google.com/file/d/1A6q9IahDN8o2JzoGgHj7Ae0Y1be-iNNy/view?usp=sharing)
 
-- 💬 Top Rated Plus Freelancer@Upwork
+💬 Top Rated Plus Freelancer@Upwork
 
-- 📫 How to reach me **mamgainvedant@gmail.com**
+📫 How to reach me **mamgainvedant@gmail.com**
 
 📫 How to reach me:
-
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/mamgainvedant) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://linkedin.com/in/vedant-mamgain)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://linkedin.com/in/vedant-mamgain)
 
 ### :zap: Recent Activity
 
