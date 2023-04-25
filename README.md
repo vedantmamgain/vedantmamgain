@@ -21,7 +21,3 @@
 4. 🗣 Commented on [#266](https://github.com/TheAlgorithms/Go/issues/266) in [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)
 5. 🗣 Commented on [#15](https://github.com/nileshsah/harwest-tool/issues/15) in [nileshsah/harwest-tool](https://github.com/nileshsah/harwest-tool)
 <!--END_SECTION:activity-->
-
-### Spotify Playing 🎧
-
-[<img src="https://novatorem-d0fbsrhp9.vercel.app/api/spotify.py" alt="Vedant Spotify Playing" width="350" />](https://open.spotify.com/user/s4c42w22yq0zx3034etx8bkiw)
